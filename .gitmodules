@@ -1,0 +1,4 @@
+[submodule "AFolder/mysub"]
+	path = AFolder/mysub
+	url = https://github.com/ElliotTrussell/TheSubmodule.git
+	ignore = dirty
